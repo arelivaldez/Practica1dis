@@ -34,7 +34,7 @@ comparador x y = if x == y
                         else 1
 
 --8. Números ordenados de forma descendente:
---La función esDescendente recibe cuatro parámetros de tipo entero x, y, z y w. La función
+--La función es Descendente recibe cuatro parámetros de tipo entero x, y, z y w. La función
 --debe devolver una valor de tipo booleano de acuerdo a los siguientes casos:
 --8.1. True, si los números fueron ingresados de manera descendente.
 --8.2. False, si los números no fueron ingresados de manera descendente
